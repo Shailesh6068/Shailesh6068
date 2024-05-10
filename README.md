@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning in B.tech Engineering.
 - 💞️ I’m looking to collaborate on Nothing.
 - 📫 How to reach me on linkedin and insta.
-  @shailesh_pawar64
+-  @shailesh_pawar64
 
 <!---
 Shailesh6068/Shailesh6068 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
