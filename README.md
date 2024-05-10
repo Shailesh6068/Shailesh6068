@@ -3,9 +3,6 @@
 - 🌱 I’m currently learning in B.tech Engineering.
 - 💞️ I’m looking to collaborate on Nothing.
 - 📫 How to reach me on linkedin and insta.
-- 
--  🌐 Socials:
--  https://www.instagram.com/shailesh_pawar64?igsh=MWhtenpqc25vcTJkNQ==
 
 <!---
 Shailesh6068/Shailesh6068 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
