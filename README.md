@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shailesh Pawar</h1>
 <h3 align="center">Exploring Code, Building Skills, and Contributing to Open Source—Journey of a Computer Science Enthusiast😎</h3>
-
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.nye4JpzTwkfdziobB_Bx-wHaFj?rs=1&pid=ImgDetMain">
 
-
+- ❤️ B.tech student in PCOOE Cs'27📖📙
 - 🌱 I am actively developing my **coding skills🖥️.**
 
 - 📫 How to reach me **shailesh.pawar23@pccoepune.org**
