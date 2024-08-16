@@ -26,8 +26,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shailesh6068" alt="shailesh6068" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shailesh6068&show_icons=true&locale=en&layout=compact" alt="shailesh6068" /></p>
+<h3 align="center">My GitHub Activity</h3>
+<p align="center">
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=Shailesh6068&amp;theme=react-dark&amp;hide_border=true&amp;hide_title=false&amp;area=true&amp;custom_title=Total%20contribution%20graph%20in%20all%20repo" rel="nofollow">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shailesh6068&amp;theme=react-dark&amp;hide_border=true&amp;hide_title=false&amp;area=true&amp;custom_title=Total%20contribution%20graph%20in%20all%20repo" width="500" alt="activity graph" style="max-width: 100%; filter: hue-rotate(180deg);">
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shailesh6068&show_icons=true&locale=en" alt="shailesh6068" /></p>
+<p align="center">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-streak-stats-salesp07.vercel.app/?user=Shailesh6068&amp;count_private=true&amp;theme=react&amp;border_radius=5">
+    <img width="500" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Shailesh6068&amp;count_private=true&amp;theme=react&amp;border_radius=5" alt="YC Streak" style="max-width: 100%; filter: hue-rotate(180deg);">
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shailesh6068&" alt="shailesh6068" /></p>
+<h5 align="center">
+    ✨ I love connecting with different people, so if you’d like to say hi, I’d be thrilled to meet you and chat more!
+</h5>
+
+
+
