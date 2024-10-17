@@ -2,7 +2,7 @@
   <span style="color: #ffcc00; text-shadow: 2px 2px #000000;">Hi 👋, I'm Shailesh Pawar</span>
 </h1>
 <h3 align="center">Exploring Code, Building Skills, and Contributing to Open Source—Journey of a Computer Science Enthusiast 😎</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
+<img align="right" alt="coding" width="300" src="https://th.bing.com/th/id/R.09b2f1ad61f656a4981716f70c159998?rik=lVAOS43%2fVXRVJw&riu=http%3a%2f%2f33.media.tumblr.com%2f09b2f1ad61f656a4981716f70c159998%2ftumblr_n9oskaDd3H1shpedgo1_400.gif&ehk=LEdRU0XYodBjy%2buIyL4Tunsztjim3fwRqFIeKsPzHfI%3d&risl=&pid=ImgRaw&r=0">
 
 - ❤️ **B.Tech Student at PCOOE, CS'27 📖📙**
 - 🌱 **Currently developing my** [**coding skills**](https://www.codecademy.com/) 🖥️.
