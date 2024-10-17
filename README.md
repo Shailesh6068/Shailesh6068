@@ -44,8 +44,8 @@
 
 <h3 align="center">🚀 My GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shailesh6068&show_icons=true&theme=radical" alt="My GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shailesh6068&theme=radical" alt="My Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shailesh6068&show_icons=true&theme=radical" alt="My GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shailesh6068&theme=radical" alt="My Streak Stats" width="47.5%" />
 </p>
 
 <h3 align="center">🛠️ Tools & Technologies</h3>
