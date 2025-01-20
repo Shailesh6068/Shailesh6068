@@ -53,6 +53,10 @@
   <img src="https://img.shields.io/badge/Code-C++-blue" />
   <img src="https://img.shields.io/badge/Code-Python-blue" />
   <img src="https://img.shields.io/badge/Code-Kotlin-blue" />
+  <img src="https://img.shields.io/badge/OS-Windows-0078D4" />
+  <img src="https://img.shields.io/badge/OS-Linux-FCC624" />
+  <img src="https://img.shields.io/badge/Editor-VisualStudioCode-007ACC" />
+  <img src="https://img.shields.io/badge/Editor-PyCharm-000000" />
 </p>
 
 <h3 align="center">📈 My GitHub Activity</h3>
