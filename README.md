@@ -51,10 +51,10 @@
 
 ---
 
-## 🚀 **GitHub Stats (Animated)**
+## 🚀 **GitHub Stats :**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shailesh6068&show_icons=true&theme=tokyonight&bg_color=0,000000,212121&title_color=00ffcc&text_color=ffffff&icon_color=ffcc00" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shailesh6068&theme=tokyonight&background=000000&stroke=00ffcc&ring=ffcc00&fire=ffcc00" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shailesh6068&show_icons=true&theme=tokyonight&bg_color=0,000000,212121&title_color=00ffcc&text_color=ffffff&icon_color=ffcc00" width="40%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shailesh6068&theme=tokyonight&background=000000&stroke=00ffcc&ring=ffcc00&fire=ffcc00" width="42.5%">
 </p>
 
 ---
@@ -63,12 +63,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shailesh6068&theme=react-dark&hide_border=true&area=true&bg_color=000000&title_color=ffcc00&point=ffcc00&line=00ffcc">
 </p>
-
----
-
-## 🔥 **Matrix-Themed Background Animation**
-<!-- Animated digital rain like "The Matrix" -->
-<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="100%" height="200px">
 
 ---
 
