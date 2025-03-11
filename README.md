@@ -54,8 +54,11 @@
 ## 🚀 **GitHub Stats :**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shailesh6068&show_icons=true&theme=tokyonight&bg_color=0,000000,212121&title_color=00ffcc&text_color=ffffff&icon_color=ffcc00" width="40%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shailesh6068&theme=tokyonight&background=000000&stroke=00ffcc&ring=ffcc00&fire=ffcc00" width="42.5%">
+  <!-- Corrected Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=Shailesh6068&theme=radical&hide_border=true&token=YOUR_PERSONAL_ACCESS_TOKEN" alt="GitHub Streak Stats" width="500px">
 </p>
+
+
 
 ---
 
