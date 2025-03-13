@@ -46,19 +46,19 @@
 
 ## ⚙️ **Languages & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,kotlin,html,css,js,vscode,linux,git,github" alt="My Tech Stack">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,kotlin,vscode,github" alt="My Tech Stack">
 </p>
 
 ---
 
 ## 🚀 **GitHub Stats :**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shailesh6068&show_icons=true&theme=tokyonight&bg_color=0,000000,212121&title_color=00ffcc&text_color=ffffff&icon_color=ffcc00" width="40%">
-  <!-- Corrected Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=Shailesh6068&theme=radical&hide_border=true&token=YOUR_PERSONAL_ACCESS_TOKEN" alt="GitHub Streak Stats" width="500px">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Shailesh6068&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=ffcc00&text_color=ffffff&icon_color=00ffcc" width="44.3%">
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=Shailesh6068&theme=radical&hide_border=true&background=000000&title_color=ffcc00&text_color=ffffff&icon_color=00ffcc" width="46.7%">
 </p>
-
-
 
 ---
 
