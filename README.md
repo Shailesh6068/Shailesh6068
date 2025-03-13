@@ -1,20 +1,20 @@
 <!-- 🚀 3D Animated Header -->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=33FF33&center=true&vCenter=true&width=550&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Shailesh+Pawar!;Computer+Science+Enthusiast;Open-Source+Contributor;Lifelong+Learner+%F0%9F%94%AE">
-  </h1>
+</h1>
 
 <!-- 🟢 Glowing Cyberpunk Name -->
 <h1 align="center">
   <span style="color: #ffcc00; text-shadow: 0 0 15px #ffcc00, 0 0 30px #ffcc00;">Hi 👋, I'm Shailesh Pawar</span>
 </h1>
 
-<!-- ⚡ AI-Enhanced Subtitle -->
+<!-- ⚡ Subtitle -->
 <h3 align="center">
-  <span style="color: #00ffcc; text-shadow: 0 0 10px #00ffcc;">🚀 Crafting futuristic solutions with AI & Open Source Tech!</span>
+  <span style="color: #00ffcc; text-shadow: 0 0 10px #00ffcc;">🚀 "Building the Future with Code, Innovation, and Open Source!"</span>
 </h3>
 
 <!-- 🎥 Animated Digital Coding GIF -->
-<img align="right" alt="coding" width="300" src="https://th.bing.com/th/id/R.09b2f1ad61f656a4981716f70c159998?rik=lVAOS43%2fVXRVJw&riu=http%3a%2f%2f33.media.tumblr.com%2f09b2f1ad61f656a4981716f70c159998%2ftumblr_n9oskaDd3H1shpedgo1_400.gif&ehk=LEdRU0XYodBjy%2buIyL4Tunsztjim3fwRqFIeKsPzHfI%3d&risl=&pid=ImgRaw&r=0">
+<img align="right" alt="coding" width="300" src="https://33.media.tumblr.com/09b2f1ad61f656a4981716f70c159998/tumblr_n9oskaDd3H1shpedgo1_400.gif" style="border: none; display: block; margin: 0; padding: 0;">
 
 ---
 
@@ -24,6 +24,7 @@
 - 🌟 **I love creating projects** that solve real-world problems.
 - 🎮 **Fun fact:** I enjoy playing video games! 😊
 - 📫 **Reach me at:** [shailesh.pawar23@pccoepune.org](mailto:shailesh.pawar23@pccoepune.org)
+
 ---
 
 ## 🌐 **Connect With Me**
